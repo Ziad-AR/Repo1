@@ -1,4 +1,1 @@
-TESTING
-
-
-MERGING TEST
+Testing changing value on remote repo and getting it locally
